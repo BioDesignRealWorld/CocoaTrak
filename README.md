@@ -26,7 +26,7 @@ License
 -------
 
 CocoaTrak --- An open-source multi-sensor temperature logger for Cocoa Fermentation
-Copyright (c) 2014 Robin Scheibler, Nur Akbar, Iyok
+Copyright (c) 2014 Akbar, Iyok, fakufaku (fakufaku[at]gmail[dot]com)
 All rights reserved.
 
 This code was written during Hackteria Lab 2014 in Yogyakarta Indonesia
