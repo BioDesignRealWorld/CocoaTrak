@@ -1,4 +1,4 @@
-CocoaTraq
+CocoaTrak
 =========
 
 A simple multi-probe temperature logger for fermentation of Cocoa.
